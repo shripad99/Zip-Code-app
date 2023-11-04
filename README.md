@@ -84,6 +84,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Thank you for using the Zip Code Searcher app!
 
----
-
-Feel free to replace `[Your Name](https://github.com/your-username)` with your actual name and GitHub profile URL. You can also customize the Acknowledgments section to give credit to any sources or inspirations you may have used. Make sure to add a LICENSE.md file with the text of the MIT License or the license of your choice if needed.
