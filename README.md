@@ -80,7 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Inspiration and design ideas: [Provide credits or references here if applicable]
+- Inspiration and design ideas: youtube.com
 
 Thank you for using the Zip Code Searcher app!
 
