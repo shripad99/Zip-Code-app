@@ -72,7 +72,7 @@ To run this project, you need to have the following software installed on your s
 
 ## Author
 
-- [Your Name](https://github.com/your-username)
+- [shripad99](https://github.com/shripad99)
 
 ## License
 
